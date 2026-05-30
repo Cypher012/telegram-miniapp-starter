@@ -14,8 +14,8 @@ A Vite, React, TanStack Router, Tailwind CSS, and Telegram SDK starter for build
 ## Quick Start
 
 ```bash
-pnpm install
-pnpm run dev
+bun install
+bun run dev
 ```
 
 Open:
@@ -41,11 +41,11 @@ Only variables that start with `VITE_` are available in the browser.
 ## Useful Commands
 
 ```bash
-pnpm run dev
-pnpm run build
-pnpm run preview
-pnpm run check
-pnpm run test
+bun run dev
+bun run build
+bun run preview
+bun run check
+bun run test
 ```
 
 ## Project Structure

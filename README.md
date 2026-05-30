@@ -1,6 +1,6 @@
 # Telegram Mini App Starter
 
-A Vite, React, TanStack Router, Tailwind CSS, and Telegram SDK starter for building Telegram Mini Apps quickly during a hackathon.
+A Vite, React, TanStack Router, Tailwind CSS, and Telegram SDK starter for building Telegram Mini Apps quickly.
 
 ## Stack
 
@@ -168,7 +168,7 @@ Telegram theme colors are available as Tailwind classes:
 
 Open `/theme` to preview the palette.
 
-## Before A Hackathon
+## Before Using
 
 1. Add your bot username to `.env`.
 2. Add your API URL to `.env`.
